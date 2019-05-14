@@ -27,3 +27,4 @@ Errata for Algorithms for Optimization book
 * Sec 4.5: "termination" is misspelled as "terminiation"
 * Mu vector prior to Eq 8.18 should be bold. 
 * p. 201: Changed "positive" to "non-negative" is 2nd-to-last paragraph
+* p. 287: First paragraph, missing period after fourth sentence. Should be "obeserved points were drawn from the model. Equivalenty,.." (comment added by Patrick Franks)
